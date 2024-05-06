@@ -1,2 +1,2 @@
 # SINC_Bot
-Another webscrappíng automation tool written in Python.
+Another webscrapping automation tool written in Python.
